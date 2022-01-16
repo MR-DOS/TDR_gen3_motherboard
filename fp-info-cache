@@ -1,0 +1,190 @@
+41749060149046
+petr_kicad
+86_PLASTIC_PACKAGE
+
+
+0
+5
+4
+petr_kicad
+AT224-1A
+
+
+0
+5
+5
+petr_kicad
+ATB2012
+
+
+0
+4
+4
+petr_kicad
+C_Array_4x0612
+Capacitor Array, VISHAY
+capacitor array
+0
+8
+8
+petr_kicad
+G08_4.4x5.7mm_Pitch1.27mm
+8-Lead Plastic Small Outline, 5.3x6.2mm Body (http://www.ti.com.cn/cn/lit/ds/symlink/tl7705a.pdf)
+SOIC 1.27
+0
+8
+8
+petr_kicad
+KPEG112
+
+
+0
+2
+2
+petr_kicad
+KiCad-Logo_5mm_mask
+KiCad Logo
+Logo KiCad
+0
+0
+0
+petr_kicad
+LQFP-32_5x5mm_P0.5mm_EP3.1_3.1
+LQFP, 32 Pin (https://www.nxp.com/docs/en/package-information/SOT401-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+33
+33
+petr_kicad
+MI-02
+
+
+0
+6
+4
+petr_kicad
+MSOP-10
+
+
+0
+10
+10
+petr_kicad
+MSOP-10_3x3mm_Pitch0.5mm
+10-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.5
+0
+10
+10
+petr_kicad
+Molex_SMA_Jack_Edge_Mount_Chinese
+Molex SMA Jack, Edge Mount, http://www.molex.com/pdm_docs/sd/732511150_sd.pdf
+sma edge
+0
+11
+2
+petr_kicad
+Noname_Chines_Ultrasound_T_R
+
+
+0
+2
+2
+petr_kicad
+PS1608G
+
+
+0
+7
+4
+petr_kicad
+QFN-20-1EP_4x4mm_Pitch0.5mm
+20-Lead Plastic Quad Flat, No Lead Package (ML) - 4x4x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.5
+0
+24
+21
+petr_kicad
+QFN-32_EP_5x5_Pitch0.5mm
+
+
+0
+82
+33
+petr_kicad
+SFP+
+https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2227302&DocType=Customer+Drawing&DocLang=English
+SFP+ SFP
+0
+20
+20
+petr_kicad
+SFP+_PCB
+
+
+0
+20
+20
+petr_kicad
+SMA_rosenberger_hybrid
+https://cz.mouser.com/datasheet/2/704/32K243-40ML5-779310.pdf
+sma edge
+0
+94
+2
+petr_kicad
+SMA_rosenberger_hybrid_ISOLA_2313_0.1mm
+https://cz.mouser.com/datasheet/2/704/32K243-40ML5-779310.pdf
+sma edge
+0
+95
+2
+petr_kicad
+SMA_southwest_supersma_hybrid
+Molex SMA Jack, Edge Mount, http://www.molex.com/pdm_docs/sd/732511150_sd.pdf
+sma edge
+0
+101
+2
+petr_kicad
+SO-8_5.3x6.2mm_Pitch1.27mm
+8-Lead Plastic Small Outline, 5.3x6.2mm Body (http://www.ti.com.cn/cn/lit/ds/symlink/tl7705a.pdf)
+SOIC 1.27
+0
+8
+8
+petr_kicad
+SOT363(TSSOP6)
+
+
+0
+6
+6
+petr_kicad
+TDR_gen3_pod
+TDR sampler/pulse generator "pod" (TDR-G3)
+TDR sampler/pulse generator "pod" (TDR-G3)
+0
+4
+1
+petr_kicad
+TSSOP-14_4.4x5mm_Pitch0.65mm
+14-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+14
+14
+petr_kicad
+TSSOP14(RU-14)
+
+
+0
+14
+14
+petr_kicad
+UG-2864KSWEG01
+
+
+0
+30
+30
